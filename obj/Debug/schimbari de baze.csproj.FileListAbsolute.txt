@@ -1,0 +1,7 @@
+C:\Proiecte\Laborator fp\schimbari de baze\bin\Debug\schimbari de baze.exe.config
+C:\Proiecte\Laborator fp\schimbari de baze\bin\Debug\schimbari de baze.exe
+C:\Proiecte\Laborator fp\schimbari de baze\bin\Debug\schimbari de baze.pdb
+C:\Proiecte\Laborator fp\schimbari de baze\obj\Debug\schimbari de baze.csproj.AssemblyReference.cache
+C:\Proiecte\Laborator fp\schimbari de baze\obj\Debug\schimbari de baze.csproj.CoreCompileInputs.cache
+C:\Proiecte\Laborator fp\schimbari de baze\obj\Debug\schimbari de baze.exe
+C:\Proiecte\Laborator fp\schimbari de baze\obj\Debug\schimbari de baze.pdb
